@@ -6,4 +6,4 @@ Projeto feito em React.JS, styled-components, axios, onde as requisições back-
 
 Construído com base nos vídeos (https://bit.ly/3O9tKau) do canal O Matheus Benites (https://bit.ly/39BumXE).
 
-![image](https://user-images.githubusercontent.com/94311606/228097537-bc78b682-662c-4284-9a5c-d568b9e5de22.png)
+![image](https://user-images.githubusercontent.com/94311606/228097685-85d197ac-9f63-4785-8cb6-814d5a3d9d82.png)
